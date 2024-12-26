@@ -1,0 +1,31 @@
+.main_div{
+    width: 30%;
+    background-color: whitesmoke;
+    margin: 50px auto;
+    padding: 50px;
+}
+.form_div{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius: 5px;
+}
+.form_inputs{
+    width: 70%;
+    margin: auto;
+}
+.form_div button{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    border: 0px;
+    cursor: pointer;
+    width: 8vw;
+    margin-left: 80px;
+    padding: 4px 1px;
+}
+.result_div{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+}
